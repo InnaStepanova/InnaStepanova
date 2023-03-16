@@ -1,5 +1,5 @@
-<h1 Hi there, I am Inna </a>👋
-IOS Developer,  from Russia. Currently in Moscow.
+<h1> Hi there, I am Inna </a>👋
+<h3> IOS Developer,  from Russia. Currently in Moscow. </h3>
 
 - 🥰 I really love Swift and iOS development
 - ✅ I have a state diploma of professional retraining in the program "Development of mobile applications on iOS" from Moscow University for Industry and Finance "Synergy"
