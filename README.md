@@ -6,4 +6,4 @@
 - 📚 I'm taking an iOS & Swift Bootcamp course at Udemy by Dr. Angela Yu and [Swift Marathone](https://t.me/swiftmarathon). Before that, I completed a six-month online course in iOS development from Swiftbook.
 - 🙌 I’m looking for a job as an iOS developer.
 - [My CV](https://github.com/InnaStepanova/InnaStepanova/blob/main/Inna%20Stepanova.pdf)
-- 📫 How to reach me: Telegram: @MyLavender
+- 📫 How to reach me: Telegram - [@MyLavender](https://t.me/MyLavender)
