@@ -10,3 +10,5 @@
 
 
 [![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=innastepanova)](https://github.com/innastepanova/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=innastepanova)](https://git.io/streak-stats)
