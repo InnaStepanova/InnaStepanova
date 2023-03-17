@@ -8,7 +8,16 @@
 - [My CV](https://github.com/InnaStepanova/InnaStepanova/blob/main/Inna%20Stepanova.pdf)
 - 📫 How to reach me: Telegram - [@MyLavender](https://t.me/MyLavender)
 
-
-[![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=innastepanova)](https://github.com/innastepanova/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=innastepanova)](https://git.io/streak-stats)
+<a href="https://github.com/innastepanova">
+    <img 
+         align="center" 
+         width="48%" 
+         src="https://github-readme-stats.vercel.app/api?username=innastepanova&show_icons=true&hide_border=true"   
+         />
+<a href="https://github.com/mr-kelma">  
+    <img 
+         lign="left" 
+         width="50%" 
+         align="center" 
+         src="https://github-readme-streak-stats.herokuapp.com?user=innastepanova&hide_border=true" 
+         />
