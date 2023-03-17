@@ -9,4 +9,4 @@
 - 📫 How to reach me: Telegram - [@MyLavender](https://t.me/MyLavender)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=InnaStepanova&theme=radical)
+[![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=innastepanova)](https://github.com/innastepanova/github-readme-stats)
