@@ -7,3 +7,6 @@
 - 🙌 I’m looking for a job as an iOS developer.
 - [My CV](https://github.com/InnaStepanova/InnaStepanova/blob/main/Inna%20Stepanova.pdf)
 - 📫 How to reach me: Telegram - [@MyLavender](https://t.me/MyLavender)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=InnaStepanova&theme=radical)
