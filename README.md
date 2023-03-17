@@ -12,12 +12,12 @@
     <img 
          align="center" 
          width="48%" 
-         src="https://github-readme-stats.vercel.app/api?username=innastepanova&show_icons=true&hide_border=true"   
+         src="https://github-readme-stats.vercel.app/api?username=innastepanova&show_icons=true"   
          />
 <a href="https://github.com/mr-kelma">  
     <img 
          lign="left" 
          width="50%" 
          align="center" 
-         src="https://github-readme-streak-stats.herokuapp.com?user=innastepanova&hide_border=true" 
+         src="https://github-readme-streak-stats.herokuapp.com?user=innastepanova" 
          />
